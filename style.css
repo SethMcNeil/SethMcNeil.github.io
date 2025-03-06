@@ -1,0 +1,59 @@
+html{
+    border-right-style:solid;
+    border-left-style:solid;
+    border-width:250px;
+    border-color:Navy;
+}
+
+#one{
+    text-align: center;
+    padding-bottom:500px;
+    padding-top:200px;
+}
+    
+#table{
+    margin-left:auto;
+    margin-right:auto;
+    border-spacing:40px;
+}
+
+th{
+    font-size:1.3em;
+}
+
+#title_two{
+    text-align:center;
+}
+
+#oil{
+    width:560px;
+    height:315px;
+}
+
+a{
+    font-size:18px;
+    font-style:italic;
+    color:blue;
+}
+
+img{
+    width:300px;
+    float:right;
+    padding-top:40px;
+    padding-right:100px;
+}
+
+#table_two{
+    width:500px;
+    border-collapse:collapse;
+}
+
+#three{
+    text-align:center;
+    margin-bottom:600px;
+}
+
+
+#p{
+    margin-bottom:50px;
+}
